@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../Education/Datacamp/Finance Fundamentals in Python"
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
